@@ -1,0 +1,28 @@
+name: Pyramid Images
+favicon: null
+layout_spectrum: 0.051536329090595245
+typography_spectrum: 0.1950672073289752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8215804435312748
+  lightness: 0.12265924038365483
+  saturation: 0.6081811033654958
+  rhythmicContrast: 0.3308275092858821
+purpose: []
