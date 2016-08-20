@@ -1,19 +1,4 @@
-name: Pyramid Images
-favicon: null
-layout_spectrum: 0.77678
 typography_spectrum: 0.1950672073289752
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.1875
   rhythmicContrast: 0.3308275092858821
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.77678
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Pyramid Images
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: An Apple A Day
 purpose: []
